@@ -896,4 +896,5 @@ const db_forums_ex = [
         updatedAt: "2024/03/24",
         note: "MCBBS的wiki",
         reference: []
+    }
 ];
