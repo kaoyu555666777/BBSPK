@@ -889,5 +889,11 @@ const db_forums_ex = [
         updatedAt: "2024/03/21",
         note: "MCBBS部分帖子的存档，持续收集中！",
         reference: []
-    }
+    },
+    {
+        title: "MCBBS Wiki",
+        url: "https://mcbbs.wiki",
+        updatedAt: "2024/03/24",
+        note: "MCBBS的wiki",
+        reference: []
 ];
